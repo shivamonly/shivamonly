@@ -7,11 +7,11 @@ BCA Student | Aspiring Full-Stack Developer
 
 About Me
 - Based in India  
-  • Contact: workshivam@yahoo.com  
-  • Currently learning: Full-Stack Development (MERN) + DSA  
-  • Open to collaborate on: Web projects & Open Source  
-  • Ask me about: Web development & building real projects  
-  • Goal: Get placed in a top tech company  
+  • **Contact:** workshivam@yahoo.com  
+  • **Currently learning:** Full-Stack Development (MERN) + DSA  
+  • **Open to collaborate on:** Web projects & Open Source  
+  • **Ask me about:** Web development & building real projects  
+  • **Goal:** Get placed in a top tech company  
 
 ---
 
