@@ -1,14 +1,14 @@
 My name is Shivam Verma, and I am 19 years old.
 ====================================
 
-BCA Student | AI-Powered Coder  
+BCA Student | AI-Powered Coder | CyberSecurity 
 
 ---
 
 About Me
 - Based in India  
   • **Contact:** workshivam@yahoo.com  
-  • **Currently learning:** Full-Stack Development (MERN) + DSA  
+  • **Currently learning:** CyberSecurity  
   • **Open to collaborate on:** Web projects & Open Source  
   • **Ask me about:** Web development & building real projects  
   • **Goal:** Get placed in a top tech company  
